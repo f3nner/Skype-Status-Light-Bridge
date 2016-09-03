@@ -1,0 +1,5 @@
+C:\Users\mf44288\Desktop\Skype_light\Lync-presence-bridge-master\Arduino\bin\Debug\Uctrl.Arduino.dll
+C:\Users\mf44288\Desktop\Skype_light\Lync-presence-bridge-master\Arduino\bin\Debug\Uctrl.Arduino.pdb
+C:\Users\mf44288\Desktop\Skype_light\Lync-presence-bridge-master\Arduino\obj\Debug\Uctrl.Arduino.csprojResolveAssemblyReference.cache
+C:\Users\mf44288\Desktop\Skype_light\Lync-presence-bridge-master\Arduino\obj\Debug\Uctrl.Arduino.dll
+C:\Users\mf44288\Desktop\Skype_light\Lync-presence-bridge-master\Arduino\obj\Debug\Uctrl.Arduino.pdb
